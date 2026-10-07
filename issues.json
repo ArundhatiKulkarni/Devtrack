@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Login button not working on mobile",
+        "description": "Users on iOS 17 cannot tap the login button",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Database connection failing",
+        "description": "Production database is intermittently unavailable",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1
+    },
+    {
+        "id": 3,
+        "title": "Update button color",
+        "description": "The settings page button color could be improved",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1
+    }
+]
