@@ -22,5 +22,13 @@
         "status": "open",
         "priority": "low",
         "reporter_id": 1
+    },
+    {
+        "id": 1,
+        "title": "Login button not working on mobile",
+        "description": "Users on iOS 17 cannot tap the login button",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1
     }
 ]
